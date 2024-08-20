@@ -2,7 +2,6 @@
 
 ### A Computer Engineering Student and Passionate Developer from India 🇮🇳
 
-- 🔭 I’m currently working on **[Stock-Option Insights of Nifty50](https://github.com/axdityax25/Stock-OptionInsight)**
 - 🌱 I’m learning **Advanced Machine Learning and Web Development**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **Data Analysis, MERN Stack, or anything tech!**
